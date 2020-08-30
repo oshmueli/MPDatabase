@@ -1,0 +1,8 @@
+Sequence(1000) + ' ' + Sequence(1000) + ' ' + Sequence(1000) + ' ' + Sequence(1000)                2,250
+Sequence(9999,-1) + ' ' + Sequence(9999,-1) + ' ' + Sequence(9999,-1) + ' ' + Sequence(9999,-1)    2,250
+Sequence(1000,2) + ' ' + Sequence(1000,2) + ' ' + Sequence(1000,2) + ' ' + Sequence(1000,2)        1,125
+Sequence(9999,-2) + ' ' + Sequence(9999,-1) + ' ' + Sequence(9999,-2) + ' ' + Sequence(9999,-1)    1,125
+Sequence(9998,-2) + ' ' + Sequence(9998,-2) + ' ' + Sequence(9998,-2) + ' ' + Sequence(9998,-2)    1,125
+Sequence(9998,-2) + ' ' + Sequence(9998,-1) + ' ' + Sequence(9998,-2) + ' ' + Sequence(9998,-1)    2,125
+                                                                                                ----------
+																					           	 סהכ  10,000
